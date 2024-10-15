@@ -1,4 +1,5 @@
 // Simulated list of existing files on the user's system
+//local storage se connected 
 const existingFiles = {
     "example-file.txt": "C:\\Downloads\\example-file.txt",
     "sample-data.pdf": "C:\\Documents\\sample-data.pdf",
